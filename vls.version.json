@@ -1,0 +1,48 @@
+{
+  "0.1": [
+    {
+      "url": "https://github.com/vlang/vls/releases/download/0.1/v-analyzer-darwin-arm64.zip",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 1079988,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/vlang/vls/releases/download/0.1/v-analyzer-darwin-x86_64.zip",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 1149120,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/vlang/vls/releases/download/0.1/v-analyzer-linux-x86_64.zip",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 1761969,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/vlang/vls/releases/download/0.1/v-analyzer-windows-x86_64.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 1382572,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ]
+}
